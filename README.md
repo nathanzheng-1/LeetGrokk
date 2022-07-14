@@ -24,7 +24,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/max-consecutive-ones-iii/
 - [X] https://leetcode.com/problems/permutation-in-string/
 - [X] https://leetcode.com/problems/find-all-anagrams-in-a-string/
-- [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
+- [X] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [X] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Two Pointers
