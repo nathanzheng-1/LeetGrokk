@@ -38,7 +38,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/subarray-product-less-than-k/
 - [X] https://leetcode.com/problems/sort-colors/
 - [X] https://leetcode.com/problems/4sum/
-- [ ] https://leetcode.com/problems/backspace-string-compare/
+- [X] https://leetcode.com/problems/backspace-string-compare/ (COME BACK)
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
