@@ -51,7 +51,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [X] https://leetcode.com/problems/merge-intervals/ (Blind)
 - [ ] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
 - [ ] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
