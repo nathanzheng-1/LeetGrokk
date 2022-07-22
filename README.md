@@ -47,7 +47,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/happy-number/
 - [X] https://leetcode.com/problems/middle-of-the-linked-list/
 - [X] https://leetcode.com/problems/palindrome-linked-list/
-- [ ] https://leetcode.com/problems/reorder-list/ (Blind)
+- [X] https://leetcode.com/problems/reorder-list/ (Blind) (COME BACK)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
