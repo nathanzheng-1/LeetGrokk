@@ -62,7 +62,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Cyclic Sort
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
+- [X] https://leetcode.com/problems/missing-number/ (Blind)
 - [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - [ ] https://leetcode.com/problems/find-the-duplicate-number/
 - [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
