@@ -87,7 +87,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/inorder-successor-in-bst/  (In order instead of level order)
 - [X] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  
 - Alternation to previous question
-- [ ] https://leetcode.com/problems/binary-tree-right-side-view/
+- [X] https://leetcode.com/problems/binary-tree-right-side-view/
 
 ## Pattern: Tree Depth First Search
 - [ ] https://leetcode.com/problems/path-sum/
