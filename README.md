@@ -80,7 +80,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Tree Breadth First Search
 - [X] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
 - [X] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-- [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- [X] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
 - [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree/
 - [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
