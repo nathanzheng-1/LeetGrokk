@@ -83,7 +83,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [X] https://leetcode.com/problems/average-of-levels-in-binary-tree/
 - [X] https://leetcode.com/problems/minimum-depth-of-binary-tree/
-- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
+- [X] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
 - [ ] https://leetcode.com/problems/inorder-successor-in-bst/  (In order instead of level order)
 - [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  
 - Alternation to previous question
