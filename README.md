@@ -72,13 +72,13 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: In-place Reversal of a LinkedList
 - [X] https://leetcode.com/problems/reverse-linked-list/ (Blind)
-- [ ] https://leetcode.com/problems/reverse-linked-list-ii/
+- [X] https://leetcode.com/problems/reverse-linked-list-ii/
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
+- [X] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
 - [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
