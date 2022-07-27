@@ -110,7 +110,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/permutations/
 - [X] https://leetcode.com/problems/letter-case-permutation/
 - [X] https://leetcode.com/problems/generate-parentheses/
-- [ ] https://leetcode.com/problems/generalized-abbreviation/
+- [X] https://leetcode.com/problems/generalized-abbreviation/
 - [ ] https://leetcode.com/problems/different-ways-to-add-parentheses/
 - [ ] https://leetcode.com/problems/unique-binary-search-trees-ii/
 - [ ] https://leetcode.com/problems/unique-binary-search-trees/
