@@ -93,7 +93,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/path-sum/
 - [X] https://leetcode.com/problems/path-sum-ii/
 - [X] https://leetcode.com/problems/sum-root-to-leaf-numbers/
-- [ ] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
+- [X] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
 - [ ] https://leetcode.com/problems/path-sum-iii/
 - [ ] https://leetcode.com/problems/diameter-of-binary-tree/
 - [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
