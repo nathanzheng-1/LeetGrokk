@@ -105,7 +105,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/find-right-interval/
 
 ## Pattern: Subsets
-- [ ] https://leetcode.com/problems/subsets/
+- [X] https://leetcode.com/problems/subsets/
 - [ ] https://leetcode.com/problems/subsets-ii/
 - [ ] https://leetcode.com/problems/permutations/
 - [ ] https://leetcode.com/problems/letter-case-permutation/
