@@ -113,7 +113,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/generalized-abbreviation/
 - [ ] https://leetcode.com/problems/different-ways-to-add-parentheses/
 - [X] https://leetcode.com/problems/unique-binary-search-trees-ii/
-- [ ] https://leetcode.com/problems/unique-binary-search-trees/
+- [X] https://leetcode.com/problems/unique-binary-search-trees/
 
 ## Pattern: Modified Binary Search
 - [ ] https://leetcode.com/problems/binary-search/ (Blind)
