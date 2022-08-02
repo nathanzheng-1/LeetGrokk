@@ -99,7 +99,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
 
 ## Pattern: Two Heaps
-- [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
+- [X] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/ipo/
 - [ ] https://leetcode.com/problems/find-right-interval/
