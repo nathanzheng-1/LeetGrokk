@@ -150,7 +150,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/maximum-frequency-stack/
 
 ## Pattern: K-way merge
-- [ ] https://leetcode.com/problems/merge-k-sorted-lists/ (Blind)
+- [X] https://leetcode.com/problems/merge-k-sorted-lists/ (Blind)
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 - [ ] https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
