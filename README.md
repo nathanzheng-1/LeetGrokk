@@ -175,7 +175,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Multi-threaded
 - [ ] https://leetcode.com/problems/same-tree/ (Blind)
-- [ ] https://leetcode.com/problems/invert-binary-tree/ (Blind)
+- [X] https://leetcode.com/problems/invert-binary-tree/ (Blind)
 - [ ] https://leetcode.com/problems/binary-search-tree-iterator/
 
 
