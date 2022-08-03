@@ -124,8 +124,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/minimum-absolute-difference/ (Close)
 - Couldn't find Bitonic Array Maximum
 - Couldn't find Search Bitonic Array 
-- [ ] https://leetcode.com/problems/search-in-rotated-sorted-array/ (Blind)
-- [ ] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
+- [X] https://leetcode.com/problems/search-in-rotated-sorted-array/ (Blind)
+- [X] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
 
 ## Pattern: Bitwise XOR
 - [ ] https://leetcode.com/problems/single-number/
