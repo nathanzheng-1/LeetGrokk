@@ -128,9 +128,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ (Blind)
 
 ## Pattern: Bitwise XOR
-- [ ] https://leetcode.com/problems/single-number/
+- [X] https://leetcode.com/problems/single-number/
 - [ ] https://leetcode.com/problems/single-number-iii/
-- [ ] https://leetcode.com/problems/complement-of-base-10-integer/
+- [X] https://leetcode.com/problems/complement-of-base-10-integer/
 - [ ] https://leetcode.com/problems/flipping-an-image/
 
 ## Pattern: Top 'K' elements
@@ -174,7 +174,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/minimum-height-trees/
 
 ## Pattern: Multi-threaded
-- [ ] https://leetcode.com/problems/same-tree/ (Blind)
+- [X] https://leetcode.com/problems/same-tree/ (Blind)
 - [X] https://leetcode.com/problems/invert-binary-tree/ (Blind)
 - [ ] https://leetcode.com/problems/binary-search-tree-iterator/
 
