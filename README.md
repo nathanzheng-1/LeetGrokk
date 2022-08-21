@@ -166,10 +166,10 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Topological Sort (Graph)
 - Couldn't find Topological Sort
-- [ ] https://leetcode.com/problems/course-schedule/ (Blind)
-- [ ] https://leetcode.com/problems/course-schedule-ii/ 
+- [X] https://leetcode.com/problems/course-schedule/ (Blind)
+- [X] https://leetcode.com/problems/course-schedule-ii/ 
 - Alternation to previous question
-- [ ] https://leetcode.com/problems/alien-dictionary/ (Blind and Premium)
+- [X] https://leetcode.com/problems/alien-dictionary/ (Blind and Premium)
 - [ ] https://leetcode.com/problems/sequence-reconstruction/description/
 - [ ] https://leetcode.com/problems/minimum-height-trees/
 
