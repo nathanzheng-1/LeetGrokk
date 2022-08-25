@@ -142,7 +142,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/sort-characters-by-frequency/
 - [X] https://leetcode.com/problems/kth-largest-element-in-a-stream/
 - [X] https://leetcode.com/problems/find-k-closest-elements/
-- [] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+- [X] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 - Couldn't find Sum of Elements
 - [X] https://leetcode.com/problems/reorganize-string/
 - [ ] https://leetcode.com/problems/rearrange-string-k-distance-apart/
